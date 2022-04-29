@@ -8,9 +8,9 @@ package-lock.json
 test/screenshots
 
 # production
-/dist
-/tmp
-/docs/tmp
+#/dist
+#/tmp
+#/docs/tmp
 
 # misc
 .DS_Store
@@ -29,9 +29,9 @@ yarn-error.log*
 *.log
 
 # build
-coverage
-Procfile
-build
-dist
-lib
-es
+#coverage
+#Procfile
+#build
+#dist
+#lib
+#es
